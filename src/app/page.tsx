@@ -143,7 +143,7 @@ export default function Home() {
         <div className="home-visual">
   <div className="profile-image-wrapper">
     <img
-      src="/shivani-portfolio/profile/profile.png"
+      src="/shivani-portfolio-creative/profile/profile.png"
       alt="Shivani Thali"
       className="profile-image"
     />
