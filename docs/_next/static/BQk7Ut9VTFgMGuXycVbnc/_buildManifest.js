@@ -3,8 +3,8 @@ self.__BUILD_MANIFEST = {
     "afterFiles": [],
     "beforeFiles": [
       {
-        "source": "/shivani-portfolio//_next/:path+",
-        "destination": "/shivani-portfolio/_next/:path+"
+        "source": "/shivani-portfolio-creative//_next/:path+",
+        "destination": "/shivani-portfolio-creative/_next/:path+"
       }
     ],
     "fallback": []
